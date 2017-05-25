@@ -1,5 +1,9 @@
 # Ubuntu16.04 安装Docker #
 
+作者：秦景坤  
+GitHub：https://github.com/Roc-J  
+CSDN博客：http://blog.csdn.net/qjk19940101  
+
 ## Docker是什么 ##
 
 Docker是一个开源的应用容器引擎，让开发者可以打包他们的应用已经依赖到一个可移植的容器中，然后发布到任何流行的Linux机器上，也可以实现虚拟化。容器是完全使用沙箱机制，相互之间不会有任何接口。
